@@ -1,0 +1,325 @@
+.header
+{ 
+	width: 100%;
+  display: inline-block;
+  background: #fff;
+}
+
+.navbar-inverse {
+  background: #fff;
+  border: none;
+}
+
+.middle-section {
+  width: 100%;
+  display: inline-block;
+}
+
+.section {
+
+  display: inline-block;
+  width: 100%;
+}
+
+.banner-section {
+ background: url(../images/flower-img3.jpg);
+  background-position: center center;
+  -webkit-background-size: cover;
+  
+  background-size: cover;
+  min-height: 600px;
+  width: 100%;
+  position: relative;
+}
+.text-algin-bg-color{
+text-align: center;
+color:#fff;
+margin-bottom: 22px;
+
+padding: 54px 0px;
+background:#f6d014;
+
+}
+
+.serivce-section-margin-center {
+   text-align: center;
+    padding: 49px 0px;
+ }
+ .text-brand-color {
+    color: #f6d014;
+}
+
+ .feature {
+  color: #2f2424ed;
+  font-size: 17px;
+  line-height: 20px;
+}
+.about-us-bg-color{
+    background: #fbfbfb;
+}
+ .danger-button{
+  margin: 10px 0;
+  border-radius: 0px;
+ }
+ .btn-warning{
+  
+  background:#f6d014;
+  border-color: #f5c785;
+ }
+.btn .btn-warning {
+    
+    display: block;
+    width: 18%;
+    background: #f6d014;
+    border-color: #f5c785;
+}
+
+  .text-align{
+   
+    margin-bottom: 44px;
+    padding: 20px;
+  }
+.user-input-margin{
+ margin-top: 50px;
+ margin-bottom: 50px;
+}
+
+  .text-heading{
+  margin: 25px 0;
+  }
+  /*.input-margin{
+    margin: 30px 0;   
+  /*}*/
+  
+    
+    .footer-bg-color{
+      background:#222;
+      padding: 33px 1px;
+    }
+    .text-color{
+      color:white;
+      padding: 14px 3px 0px;
+    }
+    .paragraph-text-color{
+      color:#807373;
+    }
+    
+    .service-color a{
+      color: #bfbfbf;
+      list-style-type: none;
+   
+    }
+    .subscribe-color{
+      color: #bfbfbf;
+    }  
+  
+ 
+   .footer-section{
+      display: inline-flex;
+      list-style-type: none;
+     }
+     .footer-subscribe{
+      width: 164px;
+     display: inline;
+     }
+  .top-social{
+    display: -webkit-inline-box;
+    list-style-type: none;
+  }
+   ul {
+    margin-top: 0;
+     margin-bottom: 10px;
+    list-style: none;
+  }
+  .nav-bar-text-color{
+    color: red;
+  }
+  
+   a: hover{
+    background: red;
+    color: green; 
+   }
+
+.navbar-inverse .navbar-nav>li>a:hover{
+  background: #f6d014 !important;
+}
+li a.active {
+    background-color: #f6d014 !important; 
+    color: block;
+}
+.nav-bar-icons{
+  background: black;
+}
+
+.contact-textalign{
+position: relative;
+    left: 15px;
+    color:white;
+}
+.home-page-text-align{
+   position: relative;
+  right: 15px;
+
+}
+
+
+p {
+    margin: 0 0 10px;
+}
+
+
+
+body {
+    font-family: "Poppins", sans-serif;
+    color: #333;
+    font-size: 13px;
+    line-height: 32px;
+    font-weight: 400;
+    letter-spacing: 1.1px;
+    overflow-x: hidden;
+    text-rendering: optimizeLegibility !important;
+    -webkit-font-smoothing: antialiased !important;
+}
+img {
+    vertical-align: middle;
+    width: 100%;
+    margin-bottom: 29px;
+}
+.about-us-marign{
+  margin-top: 23px;
+}
+.number-section h4{
+    font-size: 1px;
+    line-height: 22px;
+    margin: 70px 0 0;
+  }
+  .about-section{
+    margin-top: 50px;
+  }
+  
+.team-member  img {
+    vertical-align: middle;
+    width: 100%;
+    margin-top: 37px
+}
+.icons-align{
+display: flex;
+}
+.subscribe-text-align{
+width: 58%;
+display: inline-block;
+}
+.footer-line{
+  border-top: solid 2px;
+}
+.dropdown-submenu {
+    position: relative;
+}
+
+.navbar-nav>li>.dropdown-menu {
+    margin-top: 0;
+    border-top-left-radius: 0;
+    border-top-right-radius: 0;
+    padding: 8px 0px;
+    color: black; 
+    /* margin-left: 57px; */
+    /* margin: 0 auto; */
+    margin-right: -33px;
+  }
+
+   ul>li>a{
+  line-height: 20px;
+ 
+  
+}
+.elements-menu-icon
+{
+margin-right: 10px;
+}
+.footer-color{
+  color: #807373;
+ 
+  margin-right: 5px;
+}
+.elements-menu-icon-text-color{
+  color: red; 
+}
+
+.banner
+{ 
+  background: url(../images/flower-img1.jpg);
+  background-position: center center;
+  
+  background-size: cover;
+  min-height: 500px;
+  width: 100%;
+  position: relative;
+} 
+
+
+.background-img-text-color{
+ color: white;
+}
+ navbar-brand {
+    float: left;
+    height: 50px;
+    font-size: 18px;
+    line-height: 20px;
+}
+navbar-brand {
+    float: left;
+    height: 50px;
+    /* padding: 15px 15px; */
+    font-size: 18px;
+    line-height: 20px;
+}
+
+html {
+    overflow: scroll;
+    overflow-x: hidden;
+}
+.navbar-inverse .navbar-toggle{
+  border-color: #333;
+    background-color: #888;
+}
+h1 {
+    font-size: 36px;
+    text-align: center;
+}
+
+.heading h1 {
+    font-size: 36px;
+   
+}
+
+.text-heading{
+  font-size: 50px;
+ text-transform: uppercase;
+font-weight: 700;
+color: yellow;
+}
+.banner-text{
+  position: absolute;
+    left: 0;
+    right: 0;
+    top: 80px;
+    width: auto;
+    margin: auto;
+    text-align: center;
+}
+.footer-title{
+  padding-left: 0;
+}
+.nav-bar-color{
+  color: black;
+}
+.about-content {
+  width: 48%;
+  float: left;
+}
+.about-us-marign {
+  float: right;
+}
+.top-social li {
+  margin-right: 10px;
+}
